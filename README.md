@@ -2,6 +2,10 @@
 
 PixelForge is a modern browser-based pixel art editor built with HTML, CSS, and JavaScript.
 
+## Live Demo
+
+[Open PixelForge](https://susmitha-ae.github.io/PixelForge-Pixel-Art-Studio/)
+
 It provides a simple interface for creating, editing, saving, and exporting pixel art directly in the browser.
 
 ## Features
